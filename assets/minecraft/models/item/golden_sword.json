@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_sword"
+  },
+
+  "overrides": [
+  {"predicate": {"custom_model_data":1}, "model": "item/blade/yoriichi"},
+  {"predicate": {"custom_model_data":2}, "model": "item/blade/nichirinsword_normal"},
+  {"predicate": {"custom_model_data":3}, "model": "item/blade/nichirinsword_black"},
+  {"predicate": {"custom_model_data":4}, "model": "item/blade/nichirinsword_flame"},
+  {"predicate": {"custom_model_data":5}, "model": "item/blade/nichirinsword_moon"},
+  {"predicate": {"custom_model_data":6}, "model": "item/blade/nichirinsword_thunder"},
+  {"predicate": {"custom_model_data":7}, "model": "item/blade/nichirinsword_water"},
+  {"predicate": {"custom_model_data":8}, "model": "item/blade/nichirinsword_wind"}
+  ]
+}

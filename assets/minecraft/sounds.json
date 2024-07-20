@@ -1,0 +1,236 @@
+{
+  "slip": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "slip",
+        "stream": false
+      }
+    ]
+  },
+  "engin": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "engin",
+        "stream": false
+      }
+    ]
+  },
+  "awakening": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "awakening",
+        "stream": false
+      }
+    ]
+  },
+  "pistol_shot": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "pistol_shot",
+        "stream": false
+      }
+    ]
+  },
+  "water": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "water",
+        "stream": false
+      }
+    ]
+  },
+  "dicesteak": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dicesteak",
+        "stream": false
+      }
+    ]
+  },
+  "flash": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "issen",
+        "stream": false
+      }
+    ]
+  },
+  "sword_putin": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "sword_putin",
+        "stream": false
+      }
+    ]
+  },
+  "change_to_demon": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "change_to_demon",
+        "stream": false
+      }
+    ]
+  },
+  "sword_sweep": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "sword_sweep",
+        "stream": false
+      }
+    ]
+  },
+  "shamisen_sound": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "shamisen_sound",
+        "stream": false
+      }
+    ]
+  },
+  "bone_crash": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "bone_crash",
+        "stream": false
+      }
+    ]
+  },
+  "bamboo": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "sound_bamboo",
+        "stream": false
+      }
+    ]
+  },
+  "fire1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "fire1",
+        "stream": false
+      }
+    ]
+  },
+  "spring_birds": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tori_haru",
+        "stream": false
+      }
+    ]
+  },
+  "thunder2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thunder2",
+        "stream": false
+      }
+    ]
+  },
+  "tudumi": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tudumi",
+        "stream": false
+      }
+    ]
+  },
+  "punch_hit1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "punch_hit1",
+        "stream": false
+      }
+    ]
+  },
+  "electric_shock": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "electric_shock",
+        "stream": false
+      }
+    ]
+  },
+  "calm": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "nagi",
+        "stream": false
+      }
+    ]
+  },
+  "thunder1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "kaminari",
+        "stream": false
+      }
+    ]
+  },
+  "guard_punch": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "guard",
+        "stream": false
+      }
+    ]
+  },
+  "guard_sword": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "guard_sword",
+        "stream": false
+      }
+    ]
+  },
+  "kachi": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "kati",
+        "stream": false
+      }
+    ]
+  },
+  "crack1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "hibi_1",
+        "stream": false
+      }
+    ]
+  },
+  "crack2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "hibi_2",
+        "stream": false
+      }
+    ]
+  }
+}
