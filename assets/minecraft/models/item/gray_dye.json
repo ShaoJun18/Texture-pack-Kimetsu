@@ -6,6 +6,7 @@
   },
   
   "overrides": [
-  {"predicate": {"custom_model_data":101}, "model": "item/bda/akaza"}
+  {"predicate": {"custom_model_data":101}, "model": "item/bda/akaza"},
+  {"predicate": {"custom_model_data":1}, "model": "item/generic/boar_head"}
   ]
 }

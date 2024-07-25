@@ -232,5 +232,23 @@
         "stream": false
       }
     ]
+  },
+  "biwa": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "biwa",
+        "stream": false
+      }
+    ]
+  },
+  "mugen_enter": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "mugen_enter",
+        "stream": false
+      }
+    ]
   }
 }
