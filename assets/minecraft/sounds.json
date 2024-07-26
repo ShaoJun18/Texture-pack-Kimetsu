@@ -250,5 +250,14 @@
         "stream": false
       }
     ]
+  },
+  "respiration": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "respiration",
+        "stream": false
+      }
+    ]
   }
 }
