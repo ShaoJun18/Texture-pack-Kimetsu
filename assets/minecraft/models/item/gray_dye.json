@@ -8,6 +8,7 @@
   "overrides": [
   {"predicate": {"custom_model_data":101}, "model": "item/bda/akaza"},
   {"predicate": {"custom_model_data":1}, "model": "item/bda/biwa"},
-  {"predicate": {"custom_model_data":2}, "model": "item/bda/compass_needle"}
+  {"predicate": {"custom_model_data":2}, "model": "item/bda/compass_needle"},
+  {"predicate": {"custom_model_data":3}, "model": "item/bda/bda"}
   ]
 }
