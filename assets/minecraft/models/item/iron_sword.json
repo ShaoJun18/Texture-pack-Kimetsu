@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_sword"
+  },
+  "overrides": [
+  {"predicate": {"custom_model_data":1}, "model": "item/blade/perso/nichirinsword_bamboo2"},
+  {"predicate": {"custom_model_data":2}, "model": "item/blade/perso/nitirintou_bamboo"},
+  {"predicate": {"custom_model_data":3}, "model": "item/blade/perso/nitirintou_gold"},
+  {"predicate": {"custom_model_data":4}, "model": "item/blade/perso/nitirintou_himejima1"},
+  {"predicate": {"custom_model_data":5}, "model": "item/blade/perso/nitirintou_himejima2"},
+  {"predicate": {"custom_model_data":6}, "model": "item/blade/perso/nitirintou_iguro"},
+  {"predicate": {"custom_model_data":7}, "model": "item/blade/perso/nitirintou_inosuke"},
+  {"predicate": {"custom_model_data":8}, "model": "item/blade/perso/nitirintou_kanae"},
+  {"predicate": {"custom_model_data":9}, "model": "item/blade/perso/nitirintou_kanawo"},
+  {"predicate": {"custom_model_data":10}, "model": "item/blade/perso/nitirintou_kanroji"},
+  {"predicate": {"custom_model_data":11}, "model": "item/blade/perso/nitirintou_kokushibo"},
+  {"predicate": {"custom_model_data":12}, "model": "item/blade/perso/nitirintou_kokushibo2"},
+  {"predicate": {"custom_model_data":13}, "model": "item/blade/perso/nitirintou_kotyou"},
+  {"predicate": {"custom_model_data":14}, "model": "item/blade/perso/nitirintou_rengoku"},
+  {"predicate": {"custom_model_data":15}, "model": "item/blade/perso/nitirintou_shinazugawa"},
+  {"predicate": {"custom_model_data":16}, "model": "item/blade/perso/nitirintou_tanzirou"},
+  {"predicate": {"custom_model_data":17}, "model": "item/blade/perso/nitirintou_tanzirou2"},
+  {"predicate": {"custom_model_data":18}, "model": "item/blade/perso/nitirintou_tokitou"},
+  {"predicate": {"custom_model_data":19}, "model": "item/blade/perso/nitirintou_tomioka"},
+  {"predicate": {"custom_model_data":20}, "model": "item/blade/perso/nitirintou_uzui"},
+  {"predicate": {"custom_model_data":21}, "model": "item/blade/perso/nitirintou_zenitsu"}
+  ]
+}
